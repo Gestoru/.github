@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https:/gestoru.cm" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gestoru.com/images/logo_bienvenida-q.png">
-    <img alt="Novu Logo" src="https://user-images.githubusercontent.com/2233092/213641043-3bbb3f21-3c53-4e67-afe5-755aeb222159.png" width="280"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gestoru/.github/assets/85720891/0fa28aef-d5db-4ad7-b766-fda3cc288ed5">
+    <img alt="Novu Logo" src="https://github.com/Gestoru/.github/assets/85720891/0fa28aef-d5db-4ad7-b766-fda3cc288ed5" width="280"/>
   </picture>
   </a>
 </div>
