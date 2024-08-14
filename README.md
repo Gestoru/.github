@@ -32,7 +32,7 @@ Nos enfocoamos en?
    <img src="https://img.shields.io/badge/petete el idolo-8A2BE2" alt="NPM">
    <img src="https://img.shields.io/badge/sierra%20legend-8A2BE2" alt="NPM">
    <img src="https://img.shields.io/badge/solo miguel-8A2BE2" alt="NPM">
-   <img src="https://img.shields.io/badge/loco eddy-FFFFFF" alt="NPM">
+   <img src="https://img.shields.io/badge/loco eddy-8A2BE2" alt="NPM">
    <img src="https://img.shields.io/badge/higui-8A2BE2" alt="NPM">
   <img src="https://img.shields.io/badge/juan%20ma-8A2BE2" alt="NPM">
 </p>
